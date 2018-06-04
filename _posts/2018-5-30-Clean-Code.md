@@ -15,7 +15,7 @@ ___
 
 
 
-Clean Code was always in the top "must-read" books for a developer like me. I have heard it before I graduated college, but I realy didn’t have the time to go read it over the tons of to-dos from my majors. It did not occur to me that this book will be a mantra for me as I head on with my journey as a software engineer. With that said, I  think that this book is for people like me, like most programmers that have already developed their own style, mannerisms and habits - be it bad or good. I we programmers **DO** know what a pretty-looking code looks like, it’s just that we do not easily see thelong-term benefits from it or we just simply want the code that 'works'. 
+Clean Code was always in the top "must-read" books for a developer like me. I have heard it before I graduated college, but I realy didn’t have the time to go read it over the tons of to-dos from my majors. It did not occur to me that this book will be a mantra for me as I head on with my journey as a software engineer. With that said, I  think that this book is for people like me, like most programmers that have already developed their own style, mannerisms and habits - be it bad or good. I we programmers **DO** know what a pretty-looking code looks like, it’s just that we do not easily see the long-term benefits from it or we just simply want the code that 'works'. 
 
 
 The author made sure that programmers will not be discouraged to read his book, and that it is not yet the end of the world if you cannot write clean code because it is highly learnable so long as you put the work in mastering it.

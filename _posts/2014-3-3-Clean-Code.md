@@ -3,16 +3,17 @@ layout: post
 title: ''
 published: true
 ---
+
+![_config.yml]({{ site.baseurl }}/images/book.png)
 ## Clean Code : A Handbook of Agile Software Craftsmanship
 ### By Robert C. Martin
 
 A Short Review
 by Junno Paolo Beringuela
 
-
-![_config.yml]({{ site.baseurl }}/images/book.png)
-
 ___ 
+
+
 
 Clean Code was always in the top "must-read" books for a developer like me. I have heard it before I graduated college, but I realy didn’t have the time to go read it over the tons of to-dos from my majors. It did not occur to me that this book will be a mantra for me as I head on with my journey as a software engineer. With that said, I  think that this book is for people like me, like most programmers that have already developed their own style, mannerisms and habits - be it bad or good. I we programmers **DO** know what a pretty-looking code looks like, it’s just that we do not easily see thelong-term benefits from it or we just simply want the code that 'works'. 
 

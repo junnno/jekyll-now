@@ -21,7 +21,12 @@ Clean Code was always in the top "must-read" books for a developer like me. I ha
 The author made sure that programmers will not be discouraged to read his book, and that it is not yet the end of the world if you cannot write clean code because it is highly learnable so long as you put the work in mastering it.
 
 
-The introduction focused on describing to the reader what an unstructured code is and its consequences in the long run. It gave an example of a 1980’s popular company that came crashing down as it struggled to keep up with the fast-paced technology and their poorly maintained code base. The author also shared the methodology of a Japanese company called 5S. **Seiri**(organized) , **Seiton** (tidiness; systematize), **Seiso** (cleaning; shine), **Seiketso** (standardization).**Shutsuke** (self-discipline). 
+The introduction focused on describing to the reader what an unstructured code is and its consequences in the long run. It gave an example of a 1980’s popular company that came crashing down as it struggled to keep up with the fast-paced technology and their poorly maintained code base. The author also shared the methodology of a Japanese company called 5S. 
+1.**Seiri**(organized)
+2.**Seiton** (tidiness; systematize) 
+3.**Seiso** (cleaning; shine) 
+4.**Seiketso** (standardization)
+5.**Shutsuke** (self-discipline)
 
 ![_config.yml]({{ site.baseurl }}/images/5S.png)
  
@@ -40,7 +45,7 @@ naming your valuables _as descriptive as possible_,
 naming your functions properly to _clarify differences in usage_,
 writing your code as small or as _fewer lines as possible_ to make it more efficient.
 In that way you will _eliminate waste_ and minimize the need to use comments. 
-The author also has a nice take on the use comments - that they are one of the_ biggest sources of lies_ in your code base. These comments can easily turn from a helpful companion into a misleading friend for the next developer who will read your code. Your codebase can easily change logic or be obsolete that maintaining your comments is not a primary concern of the developer anyomre. That is why the author tells us to write your code as clear as possible that you don’t feel the need to use comments. 
+The author also has a nice take on the use comments - that they are one of the _biggest sources of lies_ in your code base. These comments can easily turn from a helpful companion into a misleading friend for the next developer who will read your code. Your codebase can easily change logic or be obsolete that maintaining your comments is not a primary concern of the developer anyomre. That is why the author tells us to write your code as clear as possible that you don’t feel the need to use comments. 
  
  
 For now, I will continue to read thru the next chapters and i am looking forward to familiarizing myself with **Code Smells**. The starting lessons equipped us with knowledge and skills for me and my team’s journey to a cleaner code. I expect to apply the knowledge that I will learn about code smells and proper refactoring to help our team and our project to grow. I enjoy his references and quotes from time to time and i think it adds authenticity to what the author is saying. It also shows that the book is a collaborative effort and an evidence of hard work and time-tested wisdom from different developers over the years.

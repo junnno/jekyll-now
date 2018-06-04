@@ -44,6 +44,7 @@ I have not yet finished reading the book but one of my biggest takeaways as-of-y
 1. naming your valuables _as descriptive as possible_,
 2. naming your functions properly to _clarify differences in usage_,
 3. writing your code as small or as _fewer lines as possible_ to make it more efficient.
+
 In that way you will _eliminate waste_ and minimize the need to use comments. 
 The author also has a nice take on the use comments - that they are one of the _biggest sources of lies_ in your code base. These comments can easily turn from a helpful companion into a misleading friend for the next developer who will read your code. Your codebase can easily change logic or be obsolete that maintaining your comments is not a primary concern of the developer anyomre. That is why the author tells us to write your code as clear as possible that you don’t feel the need to use comments. 
  

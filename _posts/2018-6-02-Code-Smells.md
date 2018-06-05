@@ -4,10 +4,8 @@ title: ''
 published: true
 ---
 ![_config.yml]({{ site.baseurl }}/images/smell.png)
-
 ## Code Smells and How To Refactor Them
-
-by Junno Paolo Beringuela
+### by Junno Paolo Beringuela
 ___
 
 In my last post, I started reading _Clean Code : A Handbook Of Agile Software Craftsmanship by Robert C. Martin_. As I read thru the first phase of the book, I understood how the author emphasized the need to write clean and simple code. He has also shown the readers how an unstructured code looks like and why it is bad. As the title says, this post will be focusing on these 'unstructured code', and the anti-patterns of clean code - also known as Code Smells.

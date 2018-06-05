@@ -8,7 +8,7 @@ published: true
 ## Code Smells and How To Refactor Them
 
 by Junno Paolo Beringuela
-
+___
 In my last post, I started reading _Clean Code : A Handbook Of Agile Software Craftsmanship by Robert C. Martin_. As I read thru the first phase of the book, I understood how the author emphasized the need to write clean and simple code. He has also shown the readers how an unstructured code looks like and why it is bad. As the title says, this post will be focusing on these 'unstructured code', and the anti-patterns of clean code - also known as Code Smells.
 
 Code smells happen for a lot reasons, can be because of inexperience, laziness, lack of abstraction, or simply just overthinking a simple problem. A lot of programmers, including me, are guilty of this. This concept is a perfect example for the metaphor - _"when there is smoke, there is fire"_. It signals out to the members of the team that code smells are a risk, and can be a sign of a hidden design flaw.
